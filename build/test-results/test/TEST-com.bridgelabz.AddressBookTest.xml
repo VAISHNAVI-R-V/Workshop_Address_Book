@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.AddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-11T04:29:25" hostname="LAPTOP-GDO34K0C" time="0.094">
+  <properties/>
+  <testcase name="givenPersonDetails_WhenChecked_ShouldReturnTrue()" classname="com.bridgelabz.AddressBookTest" time="0.094"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
